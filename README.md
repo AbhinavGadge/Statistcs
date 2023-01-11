@@ -8,5 +8,4 @@ Pre-Rayleigh Distribution : X, Y are not Gaussian distributed. var = high.
 Post-Rayleigh / Rician Distribution : X , Y are Gaussian distributed. μ = unequal, var = equal.
 
 To evaluate the characteristics of envelope R with this distributions is complex in terms of computations as well as time consuming. Therefore shankar consolidated this distributions and provided a model Nakagami distribution.
-𝑵(𝒓│𝒎,Ω)=(𝟐𝒎^𝒎 𝒓^(𝟐𝒎−𝟏))/(Γ(𝒎) Ω^𝒎 ) 𝒆𝒙𝒑(−𝒎/Ω 𝒓^𝟐 )𝑼(𝒓)
 ![image](https://user-images.githubusercontent.com/94117639/211752247-9ec81162-de58-4da5-abd0-877550fe0766.png)
